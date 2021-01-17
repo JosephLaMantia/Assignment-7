@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Giphy-Search-And-Filter-App/static/css/main.e751d21f.chunk.css",
-    "main.js": "/Giphy-Search-And-Filter-App/static/js/main.274c9441.chunk.js",
-    "main.js.map": "/Giphy-Search-And-Filter-App/static/js/main.274c9441.chunk.js.map",
+    "main.js": "/Giphy-Search-And-Filter-App/static/js/main.acdb19e8.chunk.js",
+    "main.js.map": "/Giphy-Search-And-Filter-App/static/js/main.acdb19e8.chunk.js.map",
     "runtime-main.js": "/Giphy-Search-And-Filter-App/static/js/runtime-main.564bae47.js",
     "runtime-main.js.map": "/Giphy-Search-And-Filter-App/static/js/runtime-main.564bae47.js.map",
     "static/js/2.edeaa7d5.chunk.js": "/Giphy-Search-And-Filter-App/static/js/2.edeaa7d5.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.564bae47.js",
     "static/js/2.edeaa7d5.chunk.js",
     "static/css/main.e751d21f.chunk.css",
-    "static/js/main.274c9441.chunk.js"
+    "static/js/main.acdb19e8.chunk.js"
   ]
 }
