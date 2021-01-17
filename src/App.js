@@ -9,7 +9,7 @@ import RandomSearch from './components/RandomSearch';
 function App() {
   return (
     <div className="App">
-      <Router basename={process.env.PUBLIC_URL}>
+      <Router>
         <NavBar/>
         <Switch>
         <Route path="/" exact component={TrendingGifs}/>
