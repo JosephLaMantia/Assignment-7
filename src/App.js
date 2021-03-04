@@ -9,7 +9,7 @@ import RandomSearch from './components/RandomSearch';
 function App() {
   return (
     <div className="App">
-      <Router basename="/Giphy-Search-And-Filter-App/">
+      <Router>
         <NavBar/>
         <Switch>
         <Route path="/" exact component={TrendingGifs}/>
