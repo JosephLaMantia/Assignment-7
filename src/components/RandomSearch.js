@@ -27,7 +27,7 @@ class RandomSearch extends React.Component {
       }
 
       handleRandom=()=>{
-        // e.preventDefault();
+        e.preventDefault();
         this.getData();
         <Link to="./Random"></Link>
       }
